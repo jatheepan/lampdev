@@ -1,2 +1,2 @@
 # lampdev
-php with xdebug, mysql, apache on ubuntu
+php 7.4 with xdebug, MySQL, Apache on Ubuntu docker image
